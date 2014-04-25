@@ -2,3 +2,5 @@ let's learn git :P
 
 
 now checking diff git 
+
+commig with -a option.. cool ..
